@@ -1,0 +1,6 @@
+20230423	09:44:48	319889cb-0680-4d00-9942-c254fb1b8525	POST	undefined	/auth
+20230423	09:45:01	212a4d8d-b069-4c48-a16c-a2d382f70259	POST	undefined	/auth
+20230423	09:45:48	fe94a2ab-fbf8-4a0a-afb6-4acb10e91347	POST	undefined	/register
+20250625	15:34:33	e89e2742-e580-4937-adaa-628f129657ec	GET	undefined	/
+20250625	15:34:33	e735c7ae-1066-4669-bdc3-d8618c1c0947	GET	undefined	/css/style.css
+20250625	15:34:33	32bdeb79-307b-4c2f-9506-572c7f3a7851	GET	undefined	/favicon.ico

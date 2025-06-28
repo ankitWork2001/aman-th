@@ -1,0 +1,7 @@
+2025/06/26	16:43:48	56ffe43e-e886-48f9-8946-e8f17230d7af	ValidationError: User validation failed: phone: Cast to Number failed for value "+91 657490462" (type string) at path "phone"	POST	/api/auth/signup	undefined
+2025/06/26	16:44:34	d11f6666-8907-4416-ba78-aca5bffe047e	Error: secretOrPrivateKey must have a value	POST	/api/auth/signup	undefined
+2025/06/26	16:49:38	c54a08fa-31b3-4547-a131-77087eb809b7	ReferenceError: foundUser is not defined	POST	/api/auth/login	undefined
+2025/06/27	16:05:34	abb92801-91f4-4394-96d7-bf93db9b62c0	CastError: Cast to ObjectId failed for value "85d2c256458e3a114552d28" (type string) at path "_id" for model "User"	POST	/api/leaves/85d2c256458e3a114552d28	undefined
+2025/06/27	17:27:00	05d7a1b5-083e-4d8a-8bb9-30d884882655	TypeError: OngoingTask.findAll is not a function	GET	/api/ongoingtask/685d2b9a18d9dc84e2a8ab53	undefined
+2025/06/27	17:28:16	0df9b43b-1f69-40c4-9a12-246c7ab03c1c	TypeError: OngoingTask.findAll is not a function	GET	/api/ongoingtask/685d2b9a18d9dc84e2a8ab53	undefined
+2025/06/27	17:35:41	41e72891-1152-45a4-be96-62ac2ba274d4	ValidationError: OngoingTask validation failed: user: Path `user` is required.	POST	/api/ongoingtask/685d2b9a18d9dc84e2a8ab53	undefined
